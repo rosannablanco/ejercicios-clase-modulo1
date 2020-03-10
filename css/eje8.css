@@ -1,37 +1,33 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    background-color: white;
+  background-color: white;
+  font-family: sans-serif;
 }
 
 body {
-    background-color: rgb(196, 196, 196);
-    padding-bottom: 20px;
-    margin: 20px;
-
+  background-color: rgb(252, 251, 251);
+  padding-bottom: 20px;
+  margin: 20px;
 }
 
-header {}
-
 nav {
-    background-color: green;
+  background-color: green;
 }
 
 .main-paragraph {
-    background-color: yellow;
-    margin-bottom: 20px;
+  background-color: yellow;
+  margin-bottom: 20px;
 }
 
 nav ul {
-    list-style: none;
+  list-style: none;
 }
 
 aside {
-    background-color: grey;
-
-
+  background-color: grey;
 }
